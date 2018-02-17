@@ -4,6 +4,8 @@ C++
 Python
 Kotlin
 
+.Net
+Asp.net
 
 Thanks and Regards 
 Janakiram
